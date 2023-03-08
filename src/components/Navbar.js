@@ -20,6 +20,11 @@ export default function Navbar() {
           <a href="#testimonials" className="mr-5 hover:text-white">
             Testimonials
           </a>
+
+          <a href="#netflix" className="mr-5 hover:text-white">
+            Netflix
+          </a>
+
         </nav>
         <a
           href="#contact"
