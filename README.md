@@ -1,3 +1,11 @@
+
+# Instructions
+
+- Based on tutorial: https://www.freecodecamp.org/news/build-portfolio-website-react/ 
+- start via: `npm start`
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
